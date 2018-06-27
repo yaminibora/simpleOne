@@ -1,3 +1,2 @@
 # simpleOne
-
-This is funnier!!
+something funny
