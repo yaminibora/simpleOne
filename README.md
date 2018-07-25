@@ -1,6 +1,6 @@
 # simpleOne
 
-hi 2 u
+Special
 
 This is funnier!!
 something funny
