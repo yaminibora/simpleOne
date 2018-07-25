@@ -2,7 +2,7 @@
 
 Oh me too
 
-Special
+We Are Special
 
 This is funnier!!
 something funny
